@@ -7,7 +7,7 @@
 <!-- badges: end -->
 
 The goal of calcthat is to make the common calculation, subtracting
-minium value from maximum value, more convenient.
+minimum value from maximum value, more convenient.
 
 ## Installation
 
