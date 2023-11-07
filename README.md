@@ -11,7 +11,7 @@ minimum value from maximum value, more convenient.
 
 ## Installation
 
-You can install the development version of calcthat from
+You can install the development version of `calcthat` from
 [GitHub](https://github.com/) with:
 
 ``` r
