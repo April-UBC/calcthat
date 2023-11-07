@@ -1,6 +1,6 @@
 Package: calcthat
 Title: Big Minus Small
-Version: 0.0.0.9000
+Version: 0.1.0
 Authors@R: 
     person("April", "Hwang", , "april.hwang@example.com", role = c("aut", "cre"))
 Description: Subtract min value from max value in a column. Handle NA by removing them.
